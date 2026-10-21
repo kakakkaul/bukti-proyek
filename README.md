@@ -1,18 +1,17 @@
-# React + Vite
+# Proyek Baru dengan Komponen React dan GitHub
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Proyek ini merupakan bukti pengerjaan pembuatan komponen React dinamis dan integrasi repositori GitHub.
 
-Currently, two official plugins are available:
+## Fitur Komponen
+- `KartuProfil`: Menampilkan informasi nama, peran, tahun angkatan, dan status aktif.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Props yang Digunakan
+- `nama` (string)
+- `peran` (string)
+- `tahun` (number)
+- `aktif` (boolean)
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-## Petunjuk Penggunaan
-Jalankan `npm run dev` untuk memulai server lokal.
+## Cara Menjalankan Proyek Secara Lokal
+1. Clone repositori:
+   ```bash
+   git clone [https://github.com/kakakkaul/bukti-proyek.git](https://github.com/kakakkaul/bukti-proyek.git)
