@@ -1,4 +1,4 @@
-import KartuProfil from './components/kartuprofil.jsx';
+import KartuProfil from './components/KartuProfil.jsx';
 export default function App() {
   return (
     <main>
