@@ -1,17 +1,15 @@
-# Proyek Baru dengan Komponen React dan GitHub
+# Proyek Bukti React & GitHub
 
-Proyek ini merupakan bukti pengerjaan pembuatan komponen React dinamis dan integrasi repositori GitHub.
+Repositori ini dibuat untuk memenuhi tugas Pemrograman Web II mengenai pembuatan komponen React dinamis dan integrasi Git/GitHub.
 
-## Fitur Komponen
-- `KartuProfil`: Menampilkan informasi nama, peran, tahun angkatan, dan status aktif.
+## 👥 Daftar Komponen & Props
+- **KartuProfil**: Komponen untuk menampilkan kartu informasi data anggota.
+  - `nama` (string)
+  - `peran` (string)
+  - `tahun` (number)
+  - `aktif` (boolean)
 
-## Props yang Digunakan
-- `nama` (string)
-- `peran` (string)
-- `tahun` (number)
-- `aktif` (boolean)
-
-## Cara Menjalankan Proyek Secara Lokal
-1. Clone repositori:
+## 🚀 Cara Menjalankan Proyek Secara Lokal
+1. Lakukan clone repositori:
    ```bash
    git clone [https://github.com/kakakkaul/bukti-proyek.git](https://github.com/kakakkaul/bukti-proyek.git)
